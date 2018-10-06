@@ -1,0 +1,23 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Sample app to demo read-write on mysql db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmcgowan/burger.git"
+  },
+  "keywords": [
+    "node",
+    "mysql"
+  ],
+  "author": "Tim McGowan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timmcgowan/burger/issues"
+  },
+  "homepage": "https://github.com/timmcgowan/burger#readme"
+}
