@@ -74,11 +74,11 @@ All the recommended files and directories from the steps above should look like 
 
 Current versions of
 
-Tech | Flavor
------|-----
-OS | Linux or Mac
-Languanges | NodeJS
-Database | MySQL
+|Tech | Flavor|
+|-----|-----|
+|OS | Linux or Mac|
+|Languanges | NodeJS|
+|Database | MySQL|
 
 - - -
 
